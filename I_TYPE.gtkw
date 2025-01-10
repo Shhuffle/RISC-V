@@ -1,0 +1,167 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri Jan 10 12:36:11 2025
+[*]
+[dumpfile] "C:\Users\subed\Desktop\verilog-vsc\Single_Cycle.vcd"
+[dumpfile_mtime] "Fri Jan 10 12:11:24 2025"
+[dumpfile_size] 5043
+[savefile] "C:\Users\subed\Desktop\verilog-vsc\RISC_V\I_TYPE.gtkw"
+[timestart] 0
+[size] 1319 1000
+[pos] -1 -1
+*-6.000000 55 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Single_Cycle_Tb.
+[treeopen] Single_Cycle_Tb.Single_Cycle_Top.
+[sst_width] 211
+[signals_width] 250
+[sst_expanded] 1
+[sst_vpaned_height] 295
+@28
+Single_Cycle_Tb.Single_Cycle_Top.pc.clk
+Single_Cycle_Tb.Single_Cycle_Top.pc.rstn
+@800200
+-PC
+@200
+-
+@c00022
+Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+@28
+(0)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(1)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(2)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(3)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(4)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(5)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(6)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(7)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(8)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(9)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(10)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(11)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(12)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(13)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(14)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(15)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(16)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(17)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(18)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(19)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(20)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(21)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(22)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(23)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(24)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(25)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(26)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(27)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(28)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(29)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(30)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+(31)Single_Cycle_Tb.Single_Cycle_Top.pc.PC[31:0]
+@1401200
+-group_end
+@22
+Single_Cycle_Tb.Single_Cycle_Top.pc.PC_NEXT[31:0]
+@1000200
+-PC
+@800200
+-Instruction Mem
+@200
+-
+@22
+[color] 1
+Single_Cycle_Tb.Single_Cycle_Top.Im.A[31:0]
+[color] 1
+Single_Cycle_Tb.Single_Cycle_Top.Im.RD[31:0]
+@1000200
+-Instruction Mem
+@800200
+-Register file
+@200
+-
+@c00022
+[color] 3
+Single_Cycle_Tb.Single_Cycle_Top.rf.A1[4:0]
+@28
+(0)Single_Cycle_Tb.Single_Cycle_Top.rf.A1[4:0]
+(1)Single_Cycle_Tb.Single_Cycle_Top.rf.A1[4:0]
+(2)Single_Cycle_Tb.Single_Cycle_Top.rf.A1[4:0]
+(3)Single_Cycle_Tb.Single_Cycle_Top.rf.A1[4:0]
+(4)Single_Cycle_Tb.Single_Cycle_Top.rf.A1[4:0]
+@1401200
+-group_end
+@22
+[color] 3
+Single_Cycle_Tb.Single_Cycle_Top.rf.A2[4:0]
+[color] 3
+Single_Cycle_Tb.Single_Cycle_Top.rf.A3[4:0]
+[color] 3
+Single_Cycle_Tb.Single_Cycle_Top.rf.RD1[31:0]
+[color] 3
+Single_Cycle_Tb.Single_Cycle_Top.rf.RD2[31:0]
+[color] 3
+Single_Cycle_Tb.Single_Cycle_Top.rf.WD3[31:0]
+@28
+[color] 1
+Single_Cycle_Tb.Single_Cycle_Top.rf.WE3
+@1000200
+-Register file
+@800200
+-PC ADDER
+@200
+-
+@22
+[color] 4
+Single_Cycle_Tb.Single_Cycle_Top.PA.a[31:0]
+[color] 4
+Single_Cycle_Tb.Single_Cycle_Top.PA.b[31:0]
+[color] 4
+Single_Cycle_Tb.Single_Cycle_Top.PA.c[31:0]
+@1000200
+-PC ADDER
+@800200
+-SIGN_EXTENSION
+@200
+-
+@22
+[color] 6
+Single_Cycle_Tb.Single_Cycle_Top.sE.ImmExt[31:0]
+[color] 6
+Single_Cycle_Tb.Single_Cycle_Top.sE.Instr_Rd[31:0]
+@1000200
+-SIGN_EXTENSION
+@800200
+-CONTROL_UNIT
+@200
+-
+@28
+Single_Cycle_Tb.Single_Cycle_Top.cTop.ALUOp[1:0]
+Single_Cycle_Tb.Single_Cycle_Top.cTop.funct3[2:0]
+Single_Cycle_Tb.Single_Cycle_Top.cTop.ALUControl[2:0]
+Single_Cycle_Tb.Single_Cycle_Top.cTop.RegWrite
+@800200
+-DATAMEM
+@200
+-
+@22
+Single_Cycle_Tb.Single_Cycle_Top.d.A[31:0]
+Single_Cycle_Tb.Single_Cycle_Top.d.RD[31:0]
+@23
+Single_Cycle_Tb.Single_Cycle_Top.d.WD[31:0]
+@1000200
+-DATAMEM
+-CONTROL_UNIT
+@800200
+-alu
+@200
+-
+@28
+Single_Cycle_Tb.Single_Cycle_Top.a.ALUControl[2:0]
+@22
+Single_Cycle_Tb.Single_Cycle_Top.a.A[31:0]
+Single_Cycle_Tb.Single_Cycle_Top.a.B[31:0]
+Single_Cycle_Tb.Single_Cycle_Top.a.Result[31:0]
+@1000200
+-alu
+[pattern_trace] 1
+[pattern_trace] 0
