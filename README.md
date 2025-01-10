@@ -3,6 +3,9 @@ Implementation of RISC-V architecture using Verilog. The architecture is of sing
 
 
 To write the command/ code to the processor
+
+
+
 1.Add the up code to the reg mem[] located inside of instructionmemory.v
 
 
